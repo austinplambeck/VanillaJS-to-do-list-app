@@ -13,7 +13,7 @@
 
 ### Photo:
 
-![Mobile app 1](/PROJECTS_FALL22/fall-portfolio/media/todolist.png)
+![App 1](./todolist.png)
 
 ### Contact:
 
